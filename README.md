@@ -13,4 +13,4 @@ Way:
 
 model files https://huggingface.co/huanfeixia/LLM_enrich_3GPP/upload/main
 
-![final_result1](./docs/屏幕截图 2025-09-05 105903.png)
+![final_result1](屏幕截图 2025-09-05 105903.png)
