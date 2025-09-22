@@ -11,4 +11,6 @@ Way:
 4. Trainer and TrainingArguments.
 5. Deploy new LLM on CPU and test it.
 
-https://huggingface.co/huanfeixia/LLM_enrich_3GPP/upload/main
+model files https://huggingface.co/huanfeixia/LLM_enrich_3GPP/upload/main
+
+![final_result1](./docs/屏幕截图 2025-09-05 105903.png)
