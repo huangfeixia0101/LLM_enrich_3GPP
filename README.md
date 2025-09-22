@@ -10,3 +10,5 @@ Way:
 3. Fine-tune TinyLlama with QLoRA on an RTX 4060 GPU and set up the training environment.
 4. Trainer and TrainingArguments.
 5. Deploy new LLM on CPU and test it.
+
+https://huggingface.co/huanfeixia/LLM_enrich_3GPP/upload/main
