@@ -2,7 +2,7 @@
 LLM  enrich 3GPP knowledge
 
 Target:
-Generate a small LLM with the knowledge of 3GPP and AAT producte, that can running on CPU.
+Generate a small LLM with the knowledge of 3GPP that can running on CPU.
 
 Way:
 1. Using TinyLlama as base LLM. https://huggingface.co/TinyLlama/TinyLlama-1.1B-Chat-v1.0/tree/main 
